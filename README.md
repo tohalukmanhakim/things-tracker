@@ -1,5 +1,3 @@
 # things-tracker
 
-Playstation 4: Budi Pang
-
-Nintendo Switch: Patrick
+Data is in `data.json`.
